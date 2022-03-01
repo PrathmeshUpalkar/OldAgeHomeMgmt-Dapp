@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@truffle/contract": "^4.4.10",
+    "create-react-app": "^5.0.0"
+  },
+  "browser": {
+    "http": false,
+    "https": false,
+    "os": false
+  }
+}
